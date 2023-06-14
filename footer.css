@@ -1,0 +1,137 @@
+.hr1 {
+    width: 90%;
+    margin: auto;
+}
+.hr2 {
+    width: 100%;
+    background-color: #F4F4F7;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #F4F4F7;
+}
+#footer-color{
+
+    width: 70%;
+    margin: auto;
+}
+#footer-secton{
+    width: 100%;
+    background-color: #F4F4F7;
+}
+#footer1 {
+    width: 100%;
+    margin: auto;
+    background-color: #F4F4F7;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: small;
+    padding-top: 25px;
+}
+
+#footer1 div div p,
+b {
+    font-size: small;
+    padding: 5px;
+}
+#footer-color {
+    color: gray;
+}
+#footer1 div div p:hover {
+    text-decoration: underline;
+}
+
+.bPadding {
+    margin-top: 20px;
+    padding-top: 25px;
+}
+
+.footer2 {
+    margin-bottom: 10px;
+}
+
+#section2 {
+    width: 100%;
+    height: auto;
+    text-align: start;
+    display: flex;
+    justify-content: center;
+}
+
+#section2 div {
+    font-size: 10px;
+    color: gray;
+}
+
+.section2-div {
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+}
+
+.section2-div div {
+    color: #DADADA;
+    padding: 5px;
+}
+#nav-2 {
+    display: none;
+}
+#footer-2{
+    display: none;
+}
+.footer-2-1{
+ display: flex;
+ width: 90%;
+ align-items: center;
+ justify-content: center;  
+ margin-left: 5%; 
+}
+.footer-2-1 .icon{
+ display: flex;
+ width: 90%;
+ align-items: end;
+ justify-content: end;   
+}
+#div12{
+    display: flex;
+    padding: 10px;
+}
+.div123{
+    border-right: 1.5px solid gray;
+    padding: 0px 10px;
+}
+
+#div123-1{
+    margin-left: -20px;
+}
+#footer-3 {
+    width: 100%;
+    margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.div123-2,
+.div12,
+.div-copy {
+    width: 90%;
+    margin: auto;
+    font-size: 10px;
+}
+
+#footer-3 #div12{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+@media (min-width:768) and (max-width:1024px){
+
+
+}  

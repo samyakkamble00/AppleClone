@@ -1,0 +1,47 @@
+
+#figure1{
+    color: white;
+    background-image:url("https://www.apple.com/v/home/az/images/heroes/iphone-14-pro/hero_iphone14pro_spring__9xo85pm6sbmm_largetall.jpg");
+    display: flex;
+    justify-content: center;
+}
+#figure2{
+    color: black;
+    background-image:url("https://www.apple.com/v/home/az/images/heroes/iphone-14/hero_iphone14_yellow__eun20sn4imi6_largetall.jpg");
+    display: flex;
+    justify-content: center;
+}
+#figure3{
+    color: white;
+    background-image:url("https://www.apple.com/v/home/az/images/heroes/apple-watch-series-8/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_largetall.jpg");
+    display: flex;
+    justify-content: center;
+}
+.figurePosition{
+    width: 100%;;
+    height: 80dvh;
+    background-size: cover;
+    background-position: center;
+}
+figure div{
+    justify-content: center;
+    align-items: center;  
+    text-align: center;
+}
+figure div div{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+figure div div a{ 
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 123, 255);
+}
+h1{
+    text-decoration: none;
+    padding-top: 50px;
+}
+h6{
+    color: red;
+}

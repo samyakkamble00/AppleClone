@@ -1,0 +1,70 @@
+.galleryImage{
+    width: 49%;
+    height: 49dvw;
+    display: flex;
+    flex-wrap: wrap;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+#gallery1{
+    color: black;
+    background-image:url("https://www.apple.com/v/home/az/images/promos/iphone-tradein/iphone_tradein_promo__d5au3rkw5kuq_medium.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#gallery2{
+    color: white;
+    background-image:url("https://www.apple.com/v/home/az/images/promos/wwdc23-announce/promo_wwdc23__b68ptht3mro2_medium.jpg");
+    
+    text-align: center;
+    justify-content: center;
+    align-items: end ;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+#gallery2 div{
+    margin-bottom: 25px;
+}
+#gallery2 h4{
+    width: 300px;
+    margin: auto;
+}
+#gallery3{
+    color: black;
+    background-image:url("https://www.apple.com/v/home/az/images/promos/ipad/promo_ipad__fioegapg12qi_medium.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#gallery4{
+    color: white;
+    background-image:url("https://www.apple.com/v/home/az/images/promos/macbook-pro-14-and-16/promo_mbp__ek7p477bkp6q_medium.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#gallery5{
+    color: white;
+    background-image:url("https://www.apple.com/v/home/az/images/promos/homepod/promo_homepod__f7jnolq94m2y_medium.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#gallery6{
+    color: black;
+    background-image:url("https://www.apple.com/v/home/az/images/promos/apple-card/tile__cauwwcyyn9hy_medium.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.gallery{
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+

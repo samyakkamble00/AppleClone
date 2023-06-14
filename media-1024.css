@@ -1,0 +1,187 @@
+@media (min-width:1024) and (max-width:2560px) {
+    .size-375-h1 {
+        padding-top: 10px;
+        font-size: 24px;
+    }
+
+    .size-375-h4 {
+        font-size: 15px;
+    }
+
+    .size-375-a {
+        font-size: 8px;
+        padding: 1px;
+    }
+
+    #nav-1 {
+        display: none;
+    }
+
+    #div-gallery2,
+    #div-gallery2-h4,
+    #gallery2 {
+        width: 100%;
+    }
+
+    #div-gallery2 #div-gallery2-h4 {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .figurePosition {
+        width: 100%;
+        height: 70dvh;
+        background-size: cover;
+        background-position: center;
+        margin-top: 0px;
+    }
+
+    .nav2 {
+        height: 60px;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .nav2 p {
+        height: 10 px;
+        padding: 20px;
+        color: gray;
+    }
+
+    #nav-2 {
+        display: block;
+    }
+
+    #nav-2 {
+        width: 100%;
+        height: 40px;
+        align-items: center;
+        position: sticky;
+        display: flex;
+        justify-content: center;
+        gap: 200px;
+        position: sticky;
+        top: 0;
+        opacity: .9;
+    }
+
+    #nav-21 {
+        width: 98%;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+    }
+
+    #nav-23 {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: end;
+    }
+
+    i {
+        font-size: 25px;
+        padding: 0px 10px;
+        color: #DADADA;
+    }
+
+    .size-375 div {
+        font-size: 12px;
+    }
+
+    .figurePosition {
+        padding-top: 10%;
+    }
+
+    .galleryImage {
+        width: 100%;
+        height: 130dvw;
+        background-size: cover;
+        margin-bottom: 10px;
+    }
+
+    .section2-div {
+        font-size: 5px;
+        color: aqua;
+    }
+
+    #footer-color {
+        color: gray;
+    }
+
+    #footer-1 {
+        display: none;
+    }
+
+    #footer-2 {
+        display: block;
+    }
+
+    span {
+        padding: 10px 0px;
+        width: 200px;
+        text-decoration: none;
+        font-size: 10px;
+        color: black;
+    }
+
+    .hr2 {
+        color: gray;
+    }
+
+    .icon i {
+        font-size: 8px;
+        color: black;
+    }
+
+    #footer-3 {
+        width: 100%;
+        margin-left: 0px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .div123-2,
+    .div12,
+    .div-copy {
+        width: 90%;
+        margin: auto;
+        font-size: 10px;
+    }
+
+    .div12 {
+        width: 90%;
+        margin: auto;
+        display: inline-block;
+        flex-wrap: wrap;
+    }
+
+    .div123 {
+        width: auto;
+        color: gray;
+    }
+
+    #div12 {
+        width: 90%;
+        margin: auto;
+        font-size: 10px;
+        height: 44px;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px 0px;
+    }
+
+    #div123-1 {
+        padding-left: 5%;
+    }
+
+    #footer-3 #div12{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: start;
+    }
+}

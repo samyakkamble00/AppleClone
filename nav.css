@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'An Apple', sans-serif;
+}
+
+nav section div a i {
+    font-size: medium;
+}
+
+nav {
+    width: 100%;
+    height: auto;
+    display: flex;
+    background-color: #424244;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav-1 {
+    width: 100%;
+    height: 40px;
+    align-items: center;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    position: sticky;
+    top: 0;
+    opacity: .9;
+}
+
+#nav1 {
+    background-color: #424244;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#nav1 div a {
+    text-decoration: none;
+    padding: 15px 5px;
+    color: #DADADA;
+    font-size: small;
+}
+
+#shopiphone {
+    color: rgb(0, 123, 255);
+    text-decoration: none;
+}
+
+.nav2 {
+    background-color: white;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div123-2 {
+    padding: 15px 0px;
+}
+
+.nav2 {
+    height: 40px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.nav2 p {
+    height: 10 px;
+    padding: 20px;
+    color: gray;
+}
+
+#nav-2 {
+    display: block;
+}
+
+#nav-2 {
+    width: 100%;
+    height: 40px;
+    align-items: center;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    position: sticky;
+    top: 0;
+    opacity: .9;
+}
+
+#nav-21 {
+    width: 98%;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+#nav-23 {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
